@@ -1,2 +1,3 @@
 1. I created my second Repository Practical2.
 2. Created a text file on it.
+3. I want to commit from R studio
